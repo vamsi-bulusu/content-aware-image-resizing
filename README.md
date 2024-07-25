@@ -2,6 +2,6 @@
 
 - Implemented Dynamic Programming algorithm (Seam Carving) to resize an image
 
-- Created [visualization](https://drive.google.com/file/d/1qFt0LNoOd9f_mhONtc12n1BJR9ifxWFj/view?usp=share_link) of image's transition during seam carving 
+- Created [visualization](https://www.linkedin.com/posts/vamsi-bulusu_project-imageresizing-seamcarving-activity-7020992219058696192-GoPC?utm_source=share&utm_medium=member_desktop) of image's transition during seam carving 
 
 
